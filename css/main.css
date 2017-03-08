@@ -1,0 +1,39 @@
+html {
+  font-family: 'Abhaya Libre', serif;
+  color: #fff;
+}
+
+.masthead {
+  background-color: #423ca3
+}
+
+.logo {
+  text-align: center;
+}
+
+li {
+  background-color: #15114c;
+  border-radius: .4rem;
+}
+
+.icon-link {
+  color: #fff;
+}
+
+
+@media only screen and (min-width: 60em) {
+
+  .logo {
+    text-align: left;
+  }
+
+  .nav {
+    text-align: right;
+  }
+
+  .nav li {
+    margin-bottom: 0;
+  }
+
+
+}
