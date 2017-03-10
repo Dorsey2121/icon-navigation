@@ -15,22 +15,17 @@ html {
   text-align: center;
 }
 
-li {
+.icon-link {
+  color: #fff;
   background-color: #15114c;
   border-radius: .4rem;
 }
 
-li:hover {
+.icon-link:hover {
+  color: #15114c;
   background-color: #fff;
 }
 
-.icon-link {
-  color: #fff;
-}
-
-.icon-link:hover {
-  color: #15114c;
-}
 
 @media only screen and (min-width: 60em) {
 
